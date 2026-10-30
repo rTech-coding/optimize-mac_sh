@@ -12,8 +12,6 @@ En macOS, todos los discos externos y pendrives se montan en la carpeta /Volumes
 bash
 
 cd /Volumes/black
-
-Usa el código con precaución.
 --------------------------------------------------
 #### Paso 3: Otorgar permisos de ejecución:
 Por seguridad, macOS bloquea la ejecución de scripts nuevos. Debes darle permisos al archivo con este comando: 
