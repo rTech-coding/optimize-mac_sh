@@ -9,8 +9,6 @@
 
 En macOS, todos los discos externos y pendrives se montan en la carpeta /Volumes. Para ir a tu pendrive, ejecuta el siguiente comando: 
 
-bash
-
 cd /Volumes/black
 --------------------------------------------------
 #### Paso 3: Otorgar permisos de ejecución:
