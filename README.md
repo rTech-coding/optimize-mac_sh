@@ -32,3 +32,5 @@ Ahora puedes iniciar el proceso de optimización corriendo el script desde el pe
   * *Nota importante:* Al escribir tu contraseña, **no se verá nada en la pantalla** (ni asteriscos ni letras). Esto es una medida de seguridad de macOS. Escríbela a ciegas y presiona Enter.
 2. **Apertura de Finder:** El script abrirá automáticamente la ventana de la caché de tu usuario para que revises los archivos residuales.
 3. **Reinicio recomendado:** Una vez que termine el script, se recomienda que **reinicies tu MacBook** para que el sistema aplique la limpieza de las bases de datos de fuentes correctamente.
+
+    ##Creado por rTech
