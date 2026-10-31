@@ -9,20 +9,22 @@
 
 En macOS, todos los discos externos y pendrives se montan en la carpeta /Volumes. Para ir a tu pendrive, ejecuta el siguiente comando: 
 
+
 cd /Volumes/black
+
 --------------------------------------------------
 #### Paso 3: Otorgar permisos de ejecución:
 Por seguridad, macOS bloquea la ejecución de scripts nuevos. Debes darle permisos al archivo con este comando: 
 
 
-chmod +x optimizar_mac.sh
+chmod +x optimizar_mac_mejorado.sh
 
 ---------------------------------------------------
 #### Paso 4: Ejecutar el script
 
 Ahora puedes iniciar el proceso de optimización corriendo el script desde el pendrive: 
 
-./optimizar_mac.sh
+./optimizar_mac_mejorado.sh
 
 
 ### ⚠️ ¿Qué sucederá durante la ejecución?
